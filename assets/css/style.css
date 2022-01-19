@@ -37,6 +37,7 @@ It specifies whether the flex items should wrap or not
 main {
   display: flex;
   flex-wrap: wrap;
+  background-color: black;
 }
 
 aside {
@@ -59,7 +60,7 @@ It is used to align the flex items; in our case, the product cards
 */
 .products {
   flex: 4;
-  background-color: #fff;
+  background-color: black;
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
