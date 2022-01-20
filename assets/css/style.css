@@ -20,7 +20,7 @@ The flex container becomes flexible
 */
 nav {
   display: flex;
-  background-color: #d8a47f;
+  background-color: greenyellow;
 }
 
 nav a {
@@ -42,7 +42,7 @@ main {
 
 aside {
   flex: 1;
-  background-color: #b9c6ae;
+  background-color: red;
   padding: 80px;
   text-align: center;
 }
